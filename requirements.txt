@@ -1,0 +1,60 @@
+# CIPH-SUITE 2026 - Python Dependencies
+# Ultimate Web Exploitation Framework
+
+# Core Web Framework
+playwright==1.40.0
+beautifulsoup4==4.12.2
+lxml==4.9.3
+requests==2.31.0
+
+# DNS Exfiltration & Network
+dnspython==2.4.2
+aiohttp==3.9.1
+asyncio==3.4.3
+
+# Data Processing & Encoding
+base64==1.0.0
+hashlib==20081119
+urllib3==2.1.0
+
+# Security & Cryptography
+cryptography==41.0.7
+pycryptodome==3.19.0
+
+# Database & SQL Injection
+sqlparse==0.4.4
+pymysql==1.1.0
+psycopg2-binary==2.9.9
+
+# HTTP Clients & Proxies
+httpx==0.25.2
+urllib3==2.1.0
+socks==1.7.1
+PySocks==1.7.1
+
+# Data Analysis & Processing
+pandas==2.1.4
+numpy==1.25.2
+scipy==1.11.4
+
+# Logging & Debugging
+colorlog==6.8.0
+tqdm==4.66.1
+
+# System & Utilities
+psutil==5.9.6
+python-magic==0.4.27
+click==8.1.7
+
+# Web Framework Integration
+fastapi==0.104.1
+uvicorn==0.24.0
+
+# Testing & Validation
+pytest==7.4.3
+pytest-asyncio==0.21.1
+
+# Development Tools
+black==23.11.0
+flake8==6.1.0
+mypy==1.7.1
