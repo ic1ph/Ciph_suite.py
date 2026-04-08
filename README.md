@@ -1,8 +1,4 @@
 
-CIPH-SUITE 2026
-The Ultimate Web Exploitation Framework
-Created by Ciph | Access Level: ROOT
-
 Overview
 CIPH-SUITE is a high-performance, multi-language security framework designed for 2026's modern web defenses. By combining Python 3.12+ for deep analysis and Golang for raw speed, it bypasses advanced WAFs, Cloudflare challenges, and EDR systems.
 
