@@ -1,6 +1,6 @@
 
 Overview
-CIPH-SUITE is a high-performance, multi-language security framework designed for 2026's modern web defenses. By combining Python 3.12+ for deep analysis and Golang for raw speed, it bypasses advanced WAFs, Cloudflare challenges, and EDR systems.
+CIPH-SUITE is a high-performance, multi-language security framework. By combining Python 3.12+ for deep analysis and Golang for raw speed, it bypasses advanced WAFs, Cloudflare challenges, and EDR systems.
 
 Key Modules
 1. Ciph-Scanner (Vulnerability Hunter)
